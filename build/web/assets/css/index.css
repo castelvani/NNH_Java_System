@@ -1,0 +1,48 @@
+a:link{
+    text-decoration: none;
+}
+.filtro_busca{
+    margin-top: 1% !important;
+    border-radius: 6px;
+    background-color: #343a40;
+    background: #343a40;
+    padding-top: 1%;
+    height: 9%;
+    width: 50%;
+    margin: auto;
+}
+
+.carousel-inner{
+    border-radius: 6px;
+}
+
+.titulo_index{
+    font-size: 30pt;
+}
+
+.img_index{
+    width: 100%;
+    height: auto;
+    margin-top: 1%;
+}
+
+.btnDatas{
+    font-size: 20pt;
+    width: 60%;
+    text-align: center;
+    border-radius: 6px;
+}
+
+.btnBuscar{
+    font-size: 15pt;
+    margin-left: 6%;
+    /*background: white;*/
+    /*border-radius: 39px;*/
+    cursor: pointer;
+}
+
+.form_busca{
+    width: 100%;
+    text-align: center;
+
+}
