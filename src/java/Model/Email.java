@@ -29,8 +29,8 @@ public class Email {
         props.put("mail.smtp.port", "587");
         props.put("mail.smtp.ssl.trust", "smtp.gmail.com");
 
-        String meuEmail = "hotelnnh@gmail.com";
-        String minhaSenha = "nnh2020!";
+        String meuEmail = "";
+        String minhaSenha = "";
 
         try {
             Authenticator auth = new Authenticator() {
